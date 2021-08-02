@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemingsent
-- 👀 I’m interested in Powershell
-- 🌱 I’m currently learning Powershell
+- 👀 I’m interested in Powershell and Python
+- 🌱 I’m currently learning Powershell and Python
 - 💞️ I’m looking to collaborate on probably nothing as I won't be much help.
 - 📫 How to reach me tyler@hemielectric.com
 
